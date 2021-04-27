@@ -13,3 +13,6 @@ This dataset generates shapes (only cubes for now) with centers distributed alon
 ### Example center distribution
 
 ![Example center distribution](./leftright/leftright_cube_center_distribution.png)
+
+
+Further reading on dataset generation: https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922
